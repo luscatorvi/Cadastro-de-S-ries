@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\bin\Debug\net10.0\Cadastro.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\bin\Debug\net10.0\Cadastro.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\bin\Debug\net10.0\Cadastro.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\bin\Debug\net10.0\Cadastro.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\bin\Debug\net10.0\Cadastro.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\obj\Debug\net10.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\obj\Debug\net10.0\Cadastro.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\obj\Debug\net10.0\Cadastro.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\obj\Debug\net10.0\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\obj\Debug\net10.0\Cadastro.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\obj\Debug\net10.0\refint\Cadastro.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\obj\Debug\net10.0\Cadastro.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\obj\Debug\net10.0\Cadastro.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\.NET\Cadastro\obj\Debug\net10.0\ref\Cadastro.dll
